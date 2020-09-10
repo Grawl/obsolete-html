@@ -5,7 +5,7 @@
 		"email": "mail@grawl.ru",
 		"url": "https://grawl.ru"
 	},
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "List of obsolete elements and attributes based on W3 data",
 	"main": "./index.js",
 	"repository": {
