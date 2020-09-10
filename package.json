@@ -1,0 +1,23 @@
+{
+	"name": "obsolete-html",
+	"author": {
+		"name": "Даниил Пронин",
+		"email": "mail@grawl.ru",
+		"url": "https://grawl.ru"
+	},
+	"version": "0.1.0",
+	"description": "List of obsolete elements and attributes based on W3 data",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Grawl/obsolete-html.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Grawl/obsolete-html/issues"
+	},
+	"homepage": "https://github.com/Grawl/obsolete-html",
+	"devDependencies": {
+		"dual-publish": "^0.11.0"
+	}
+}
