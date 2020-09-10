@@ -17,6 +17,9 @@
 		"url": "https://github.com/Grawl/obsolete-html/issues"
 	},
 	"homepage": "https://github.com/Grawl/obsolete-html",
+	"scripts": {
+		"publish": "dual-publish"
+	},
 	"devDependencies": {
 		"dual-publish": "^0.11.0"
 	}
